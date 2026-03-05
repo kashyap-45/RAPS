@@ -10,7 +10,7 @@
 
 RAPS_HOME=/rapsa/prod
 ARCH_DIR=/rapsd/prod/data/cdds
-EMAIL_ID="bk7768@att.com"
+EMAIL_ID="bharanikashyap45@gmail.com"
 DATE=$(date '+%d%b %Y %T')
 
 # ------------------------------------------------ #
